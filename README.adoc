@@ -1,7 +1,27 @@
 == apuntes-arqui
 
-https://utn.zoom.us/j/3559623136
+.enlaces útiles
+[%collapsible]
+====
+* https://github.com/tossuttid/apuntes-arqui/tree/main/clases[mis apuntes de clase]
+====
 
-ID de reuniön: 355 962 3136
+.Datos de Cursado y Zoom
+[%collapsible%open]
+====
+* Teoría:
+** Ing. Maurokefalidis
+** Lunes 18:10 a 21:15
+** Aula 2.10
+** https://utn.zoom.us/j/3559623136
+** ID de reunión: 355 962 3136
+** Código de acceso: 0303456
+* Práctica:
+** Ing. Mendez
+** Viernes de 18:10 a 21:15
+** Aula 2.10
+** https://utn.zoom.us/j/97749406357
+** ID de reunión: 977 4940 6357
 
-Cödigo de acceso: 0303456
+Los recursantes cursan virtual (modalidad híbrida)
+====
