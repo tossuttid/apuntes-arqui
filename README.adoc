@@ -1,6 +1,8 @@
 == apuntes-arqui
 
-.enlaces útiles
+Este año los recursantes cursan de manera virtual (modalidad híbrida).
+
+.Enlaces Útiles
 [%collapsible]
 ====
 * https://github.com/tossuttid/apuntes-arqui/tree/main/clases[mis apuntes de clase]
@@ -22,6 +24,4 @@
 ** Aula 2.10
 ** https://utn.zoom.us/j/97749406357
 ** ID de reunión: 977 4940 6357
-
-Los recursantes cursan virtual (modalidad híbrida)
 ====
