@@ -6,6 +6,8 @@ Este año los recursantes cursan de manera virtual (modalidad híbrida).
 [%collapsible]
 ====
 * https://github.com/tossuttid/apuntes-arqui/tree/main/clases[mis apuntes de clase]
+* https://github.com/tossuttid/apuntes-arqui/tree/main/campus/contenido.adoc[mis apuntes del campus]
+* https://frre.cvg.utn.edu.ar/course/view.php?id=451[cvfrre]
 ====
 
 .Datos de Cursado y Zoom
