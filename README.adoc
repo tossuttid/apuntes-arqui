@@ -1,6 +1,6 @@
 == apuntes-arqui
 
-Este año los recursantes cursan de manera virtual (modalidad híbrida).
+Este año (2024) los recursantes cursan de manera virtual (modalidad híbrida).
 
 .Enlaces Útiles
 [%collapsible]
